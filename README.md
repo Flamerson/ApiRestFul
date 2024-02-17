@@ -1,6 +1,6 @@
 # ApiRestFul 
 
-Essa é uma api criada com SpringBoot, utilizando o modelo de maturidade de Richardson, seguindo todos os requisitos.
+Essa é uma API criada com SpringBoot, utilizando o modelo de maturidade de Richardson, seguindo todos os requisitos.
 
 ****
 
@@ -9,14 +9,14 @@ Essa é uma api criada com SpringBoot, utilizando o modelo de maturidade de Rich
 - Intellij, Insomnia.
 
 ## Padrão de Richardson
-A Maturidade de Richardson é aplicada para dizer que uma Api é restful, sendo assim é preciso seguir algumas regras
+A Maturidade de Richardson é aplicada para dizer que uma API é restful, sendo assim é preciso seguir algumas regras
 para que esse método seja aplicado corretamente.
 
 Um pouco mais sobre A Maturidade de Richardson no link: https://rivaildojunior.medium.com/modelo-de-maturidade-de-richardson-para-apis-rest-8845f93b288
 
 ## Sobre o projeto
 
-Esse projeto é uma Api Restful que está salvando uma todoList no banco levando em conta toda a maturidade de Richardson. o intuito é realizar um CRUD no banco onde iremos salvar e recuperar esses dados da maneira correta.
+Esse projeto é uma Api Restful que está salvando uma todoList no banco levando em conta toda a maturidade de Richardson. o intuito é realizar um CRUD no banco iremos salvar e recuperar esses dados da maneira correta.
 ****
 
 # Minhas configurações iniciais
@@ -36,7 +36,7 @@ Após iniciar o projeto na IDE realizei a criação dos pacotes, como na imagem 
 
 - Utilizei um padrão de pacotes bem próximo com o padrão MVC.
 
-Depois de criar todas as classes e colocar nos seus pacotes, denominei todas as rotas como "todos", ficando "localhost:8080/todos", como podem ver utilizei 3 dos padrões de richardson nesse modelo, faltando somente adicionar o último para tornar a api restful.
+Depois de criar todas as classes e colocar nos seus pacotes, denominei todas as rotas como "todos", ficando "localhost:8080/todos", como podem ver utilizei 3 dos padrões de richardson nesse modelo, faltando somente adicionar o último para tornar a API restful.
 
 <br/>
 <img src="./ExternalPhotos/RotaGet.png" >
